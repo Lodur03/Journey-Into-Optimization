@@ -11,5 +11,6 @@ Some notebooks for educational purposes. (In portuguese)
 - Stochastic Gradient Descent with variance reduction (Centroid Method)
 
 **To come:**
-- Stochastic Gradient Descent with variance reduction (SAG and SAGA)
-- Stochastic Gradient Descent with momentum (Polyak, Adam)
+- Stochastic Gradient Descent with variance reduction (SVRG, SAG and SAGA)
+- Stochastic Gradient Descent with momentum (Polyak and Nesterov)
+- Adaptative with Momentum (Adam)
